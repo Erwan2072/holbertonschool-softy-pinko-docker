@@ -115,6 +115,3 @@ Ajoutez un deuxième serveur API pour gérer les pics de trafic. Configurez le r
 
 Vous pouvez trouver le code source de ce projet sur GitHub : [holbertonschool-softy-pinko-docker](https://github.com/holbertonschool-softy-pinko-docker).
 
----
-
-Ce projet a été réalisé dans le cadre du cours Docker pour débutants par Derek Webb. N'oubliez pas de demander une revue QA manuelle une fois le projet terminé.
